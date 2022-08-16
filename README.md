@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Nithin
-- 👀  I’m interested in Docker, Kubernetes and DevOps in general.
+- 👀  I’m interested in Golang, Docker, Kubernetes and DevOps in general.
 - 📫  How to reach me : http://portfolio.asmallstep.xyz
 
 <!---
