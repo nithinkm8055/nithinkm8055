@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Nithin
 - 👀  I’m interested in Golang, Docker, Kubernetes and DevOps in general.
-- 📫  How to reach me : http://portfolio.asmallstep.xyz
+- 📫  How to reach me : https://nithinkm8055.github.io/cv/
 
 <!---
 nithinkm8055/nithinkm8055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
